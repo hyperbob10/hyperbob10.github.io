@@ -6,9 +6,7 @@ title: Projects
 
 Here the academic and work's projects
 
-### Robotic Leg
 
-Robotic leg master thesis
 
-### Line Follower Robot
+### Robocup
 This is the bio of Roberto Carta

@@ -1,14 +1,32 @@
 ---
 layout: post
-title: Projects
+title: Curriculum Vitae
 # subtitle: Why you'd want to go on a date with me
 ---
 
 Here the academic and work's projects
 
-### Robotic Leg
+## Work Career
 
-Robotic leg master thesis
+### Zeleros Hyperloop
+*Valencia*
+*August 2023* - *March 2024*
 
-### Line Follower Robot
-This is the bio of Roberto Carta
+Zeleros Hyperloop experience
+
+### Centre de Disseny d'equips industrials (CDEI) - UPC
+*Barcelona*
+*September 2022* - *February 2023*
+CDEI experience
+
+## Academic Career
+
+### Msc in Control Systems Engineering
+
+Padova, etc
+
+### Bsc in Information Engineering
+
+Padova, etc
+
+## Academic Records
