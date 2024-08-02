@@ -14,17 +14,22 @@ title: Portfolio
 
 # Your name to show in the footer
 author: Roberto Carta
+first_name: Roberto
+last_name: Carta
+email: carta.roberto@proton.me
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Projects: "projects"
+  CV
 
 ################
 # --- Logo --- #
